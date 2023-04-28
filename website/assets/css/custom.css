@@ -1,0 +1,19 @@
+.FixedHeightContainer 
+{
+    float:  right;
+    overflow-y:scroll;
+    height: 70vh;
+}
+.Content
+{
+    height: 70vh;
+    
+}
+
+.selected_card{
+    background-color: rgb(143, 240, 143);
+}
+
+.card{
+    border-color: white;
+}
