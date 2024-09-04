@@ -8,12 +8,8 @@ This project integrates T5 like LLM summarization models with Torch Serve, enhan
 
 3) Go to ![website](https://github.com/FrozenWolf-Cyber/Scalable-Summarization/tree/master/website) and open ![index.html](https://github.com/FrozenWolf-Cyber/Scalable-Summarization/blob/master/website/index.html)
 
-
-![flow](https://github.com/FrozenWolf-Cyber/Scalable-Summarization/blob/master/FLOWCHART.drawio.png)
-
 ## PRODUCT ARCHITECTURE:
-![SHAASTRA-ARTICLE drawio](https://user-images.githubusercontent.com/57902078/213528159-6413d960-cfbf-4ae6-a2ad-e72b83aae8f7.png)
-
+![flow](https://github.com/FrozenWolf-Cyber/Scalable-Summarization/blob/master/FLOWCHART.drawio.png)
 
 ## TECH STACK ABSTRACT ARCHITECTURE:
 ![SHAASTRA-ARTICLE-TECH drawio](https://user-images.githubusercontent.com/57902078/213528189-6dbe2344-67f1-4c5a-aca5-af002ae120cf.png)
